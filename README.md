@@ -1,4 +1,4 @@
-Open in local server
+Open local server
 
 ```
 npm install
